@@ -53,15 +53,11 @@ const Contact = () => {
                     <img src={github} alt='social' />
                 </a>
                 <a
-                    href='https://linkedin.com/in/MadhavBahl'
-                    className='social-icon'
-                >
+                    href='https://www.linkedin.com/in/dev-swaika-b5ab2119b' className='social-icon'>
                     <img src={linkedin} alt='social' />
                 </a>
                 <a
-                    href='https://instagram.com/devswaika'
-                    className='social-icon'
-                >
+                    href='https://instagram.com/devswaika' className='social-icon'>
                     <img src={instagram} alt='social' />
                 </a>
                 <a
@@ -70,7 +66,7 @@ const Contact = () => {
                 >
                     <img src={medium} alt='social' />
                 </a>
-                <a href='https://devswaika.com' className='social-icon'>
+                <a href='https://devswaika99.github.io/Personal-Profile/' className='social-icon'>
                     <img src={web} alt='social' />
                 </a>
             </div>
